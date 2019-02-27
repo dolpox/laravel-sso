@@ -1,10 +1,10 @@
 <?php
 
-namespace Zefy\LaravelSSO\Middleware;
+namespace Dolpox\LaravelSSO\Middleware;
 
 use Closure;
 use Illuminate\Http\Request;
-use Zefy\LaravelSSO\LaravelSSOBroker;
+use Dolpox\LaravelSSO\LaravelSSOBroker;
 
 class SSOAutoLogin
 {

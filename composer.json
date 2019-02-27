@@ -20,13 +20,13 @@
     },
     "autoload": {
       "psr-4": {
-        "Zefy\\LaravelSSO\\": "src/"
+        "Dolpox\\LaravelSSO\\": "src/"
       }
     },
     "extra": {
       "laravel": {
         "providers": [
-            "Zefy\\LaravelSSO\\SSOServiceProvider"
+            "Dolpox\\LaravelSSO\\SSOServiceProvider"
         ]
       }
     }

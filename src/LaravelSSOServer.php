@@ -1,13 +1,13 @@
 <?php
 
-namespace Zefy\LaravelSSO;
+namespace Dolpox\LaravelSSO;
 
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\Session;
 use Zefy\SimpleSSO\SSOServer;
-use Zefy\LaravelSSO\Resources\UserResource;
+use Dolpox\LaravelSSO\Resources\UserResource;
 
 class LaravelSSOServer extends SSOServer
 {

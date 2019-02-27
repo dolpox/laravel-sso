@@ -1,6 +1,6 @@
 <?php
 
-namespace Zefy\LaravelSSO\Exceptions;
+namespace Dolpox\LaravelSSO\Exceptions;
 
 use Exception;
 

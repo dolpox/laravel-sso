@@ -1,6 +1,6 @@
 <?php
 
-namespace Zefy\LaravelSSO\Commands;
+namespace Dolpox\LaravelSSO\Commands;
 
 use Illuminate\Console\Command;
 
