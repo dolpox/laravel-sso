@@ -13,7 +13,7 @@
 
 This package based on [Simple PHP SSO skeleton](https://github.com/zefy/php-simple-sso) package and made suitable for Laravel framework.
 ### Requirements
-* Laravel 5.5+
+* Laravel 5.2+
 * PHP 7.1+
 
 ### Words meanings
